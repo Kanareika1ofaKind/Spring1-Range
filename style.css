@@ -1,0 +1,10 @@
+header .headerTitle a {
+display: grid;
+}
+nav ul li {
+  list-style: none;
+}
+aside image p
+{
+  left: 20%;
+}
